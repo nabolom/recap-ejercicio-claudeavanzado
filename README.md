@@ -8,6 +8,8 @@ aplicas en tu propio repo.
 **Para qué sirve:** para que compares tu proyecto contra un caso terminado. Si en
 tu repo falta alguno de los archivos de la tabla de abajo, ahí está tu pendiente.
 
+**¿Te quedaste atrás?** → [`SEGUIMIENTO.md`](SEGUIMIENTO.md) — qué correr para ponerse al día según la sesión donde te quedaste.
+
 ---
 
 ## El arco completo en una tabla
