@@ -161,16 +161,3 @@ El agente te lleva por todo el flujo de la S1. Después sigue los bloques de arr
 | **Todo al día** | Verifica con `ls` y llega | 0 min |
 | **Sin repo** | Crea desde template + `/arrancar` + sigue los bloques | 90+ min |
 
----
-
-## Mensaje tipo para mandar por Slack/WhatsApp
-
-> Hola [nombre] — para la sesión de mañana necesito que tu repo tenga al menos [X]. Según lo que vi, te falta [Y].
->
-> Corre esto en tu terminal: [pegar bloque]
->
-> Después abre Claude Code y dile: [pegar prompt]
->
-> Si te atoras, mándame screenshot y te desbloqueo. Pero intenta primero — el agente sabe guiarte.
->
-> Si de plano no llegas, no te preocupes: en la sesión puedes seguir con el repo de ejemplo (github.com/nabolom/recap-ejercicio-claudeavanzado) y hacer el tuyo como tarea.
